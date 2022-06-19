@@ -5,6 +5,7 @@ header {
         display: flex;
         align-items: center;
         justify-content: space-between;
+        gap: 40px;
         min-height: 80px;
         max-width: 1024px;
         margin: 0 auto;
@@ -12,6 +13,8 @@ header {
     }
 
     .menu {
+        display: flex;
+
         a {
             color: var(--cor-branca);
             font-size: 1.125rem;
@@ -22,6 +25,27 @@ header {
 
         a:hover {
             color: var(--cor-preta);
+        }
+    }
+}
+
+@media screen and (max-width: 425px) {
+    header {
+        .container {
+            justify-content: center;
+            flex-direction: column;
+            gap: 0;
+
+            .menu {
+                border-top: 1px solid #009fa5;
+                justify-content: space-around;
+
+                width: 100%;
+
+                a {
+                    padding: 10px;
+                }
+            }
         }
     }
 }
