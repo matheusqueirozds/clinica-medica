@@ -1,0 +1,19 @@
+footer {
+    background-color: var(--cor-secundaria);
+    color: var(--cor-branca);
+    margin-top: 60px;
+
+    .container {
+        padding: 20px 0 40px 0;
+        text-align: center;
+
+        img {
+            display: inline;
+        }
+
+        p {
+            margin-bottom: 10px;
+            font-weight: 500;
+        }
+    }
+}
