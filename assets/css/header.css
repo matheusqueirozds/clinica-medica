@@ -1,0 +1,33 @@
+header {
+  background-color: var(--cor-primaria);
+}
+
+header .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  min-height: 80px;
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+header .menu a {
+  color: var(--cor-branca);
+  font-size: 1.125rem;
+  font-weight: 600;
+  padding: 5px 10px;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+header .menu a:hover {
+  color: var(--cor-preta);
+}
+/*# sourceMappingURL=header.css.map */

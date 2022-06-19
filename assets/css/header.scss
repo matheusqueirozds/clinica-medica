@@ -1,0 +1,27 @@
+header {
+    background-color: var(--cor-primaria);
+
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        min-height: 80px;
+        max-width: 1024px;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+
+    .menu {
+        a {
+            color: var(--cor-branca);
+            font-size: 1.125rem;
+            font-weight: 600;
+            padding: 5px 10px;
+            transition: 0.3s;
+        }
+
+        a:hover {
+            color: var(--cor-preta);
+        }
+    }
+}
