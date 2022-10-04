@@ -98,7 +98,7 @@ Inicie o servidor pelo Go Live, disponível após a intalação da extensão Liv
 <details>
 <summary><h2>🤹🏾‍♂️ Stacks utilizadas</h2></summary>
   
-- HTML e CSS
+- HTML e SCSS
   
 </details>   
   
