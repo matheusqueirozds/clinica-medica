@@ -23,7 +23,7 @@
   
 [Matheus Queiroz](https://github.com/matheusqueirozds) |  
 :-------------------------:|
- <a href="https://github.com/matheusqueirozds"><img src="https://avatars.githubusercontent.com/u/70871620?v=4" width="100px;" alt="Foto do Matheus Queiroz no GitHub"/></a> |
+ <a href="https://github.com/matheusqueirozds"><img src="https://avatars.githubusercontent.com/u/70871620?v=4" width="100px;" alt="Foto do Matheus Queiroz no GitHub" title="Fazedor de cirurgia em código legado" /></a> |
   
 </div>
 </details>
