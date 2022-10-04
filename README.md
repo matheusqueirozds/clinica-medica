@@ -2,7 +2,7 @@
   
 # CMLife - Clínica Médica
   
-> 🩺 Site institucional de uma clínica médica fictícia.
+> ⛑ Site institucional de uma clínica médica fictícia.
   
   <img src="https://user-images.githubusercontent.com/70871620/193804816-849bf5a0-f0c6-44b3-8e4d-7befd6144aae.gif" height="200px" title="MR Bean do GitHub tocando o terror nos códigos"/>  
 
